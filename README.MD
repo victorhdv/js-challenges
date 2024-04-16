@@ -1,7 +1,7 @@
-#JavaScript Coding Challenges Repository
+#_JavaScript Coding Challenges Repository_
 
-This repository contains a series of coding challenges aimed at to improve your JavaScript skills.
+-This repository contains a series of coding challenges aimed at to improve your JavaScript skills.
 
-Each challenge is contained in its own file.
+-Each challenge is contained in its own file.
 
-Happy coding! 🚀
+_Happy coding!_ 🚀

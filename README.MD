@@ -1,4 +1,4 @@
-# **\_**JavaScript Coding Challenges Repository\_\*\*
+# **JavaScript Coding Challenges Repository**
 
 - This repository contains a series of coding challenges aimed at to improve your JavaScript skills.
 
